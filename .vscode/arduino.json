@@ -1,5 +1,6 @@
 {
     "sketch": "tr1a.ino",
     "board": "arduino:avr:uno",
-    "port": "COM8"
+    "port": "COM8",
+    "output": ".vscode/build"
 }
