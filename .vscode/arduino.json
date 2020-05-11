@@ -1,4 +1,5 @@
 {
-    "sketch": "tw1a.ino",
-    "board": "arduino:avr:uno"
+    "sketch": "tr1a.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM8"
 }
